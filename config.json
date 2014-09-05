@@ -1,0 +1,7 @@
+{
+    "host" : "denimgroup.atlassian.net",
+    "port" : "443",
+    "username" : "aalanis",
+    "password" : "silence eagles gold",
+    "DBurl" : "localhost:27017/jiraDB"
+}
